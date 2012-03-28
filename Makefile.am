@@ -588,6 +588,7 @@ dist_udevkeymap_DATA = \
 udevkeymapforcereldir = $(libexecdir)/udev/keymaps/force-release
 dist_udevkeymapforcerel_DATA = \
 	src/keymap/force-release-maps/dell-touchpad \
+	src/keymap/force-release-maps/dell-xps \
 	src/keymap/force-release-maps/hp-other \
 	src/keymap/force-release-maps/samsung-other \
 	src/keymap/force-release-maps/samsung-90x3a \
