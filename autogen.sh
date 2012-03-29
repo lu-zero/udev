@@ -28,7 +28,7 @@ args="$args \
 else
 args="$args \
 --with-rootprefix= \
----with-rootlibdir=$(libdir /lib) \
+--with-rootlibdir=$(libdir /lib) \
 --bindir=/sbin \
 --libexecdir=/lib \
 --with-systemdsystemunitdir=/lib/systemd/system \
