@@ -1,3 +1,13 @@
+***********************************************************
+ The udev development has moved to:
+   http://www.freedesktop.org/wiki/Software/systemd
+   http://cgit.freedesktop.org/systemd/systemd/
+
+ This tree will no longer be updated after April 2012:
+   http://thread.gmane.org/gmane.linux.hotplug.devel/17392
+
+***********************************************************
+
 udev - Linux userspace device management
 
 Integrating udev in the system has complex dependencies and may differ from
